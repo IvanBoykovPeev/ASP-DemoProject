@@ -50,3 +50,4 @@ c:\users\ivan\documents\visual studio 2015\Projects\WebDemoProject\PartyInvaited
 c:\users\ivan\documents\visual studio 2015\Projects\WebDemoProject\PartyInvaited\bin\System.Web.WebPages.xml
 c:\users\ivan\documents\visual studio 2015\Projects\WebDemoProject\PartyInvaited\bin\System.Web.WebPages.Deployment.xml
 c:\users\ivan\documents\visual studio 2015\Projects\WebDemoProject\PartyInvaited\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ivan\documents\visual studio 2015\Projects\WebDemoProject\PartyInvaited\obj\Debug\PartyInvaited.csprojResolveAssemblyReference.cache
