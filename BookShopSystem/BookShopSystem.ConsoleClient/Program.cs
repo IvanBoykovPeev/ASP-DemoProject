@@ -18,6 +18,7 @@ namespace BookShopSystem.ConsoleClient
             var context = new Data.BookShopContext();
             //Initialize database
             var bookCount = context.Books.Count();
+            Console.WriteLine(bookCount);
         }
     }
 }
