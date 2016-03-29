@@ -31,7 +31,7 @@ namespace BookShopSystem.Models
         [Required]
         public int Copies { get; set; }
 
-        public int AutorId { get; set; }
+        public int AuthorId { get; set; }
 
         [Required]
         public Type Edition { get; set; }

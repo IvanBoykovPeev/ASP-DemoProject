@@ -7,4 +7,3 @@ C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModel
 C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\obj\Debug\BookShopModels.dll
 C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\obj\Debug\BookShopModels.pdb
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\obj\Debug\BookShopSystem.Models.csprojResolveAssemblyReference.cache
