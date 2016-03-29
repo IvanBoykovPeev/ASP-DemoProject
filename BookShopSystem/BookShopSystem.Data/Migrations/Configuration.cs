@@ -3,32 +3,92 @@ namespace BookShopSystem.Data.Migrations
     using Models;
     using System;
     using System.Data.Entity.Migrations;
-    //TO DO Make Class globally accessible
+    using System.Globalization;
+    using System.IO;    //TO DO Make Class globally accessible
     public sealed class Configuration : DbMigrationsConfiguration<BookShopSystem.Data.BookShopContext>
     {
-        private Random random = new Random();
+        Random random = new Random();
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
             AutomaticMigrationDataLossAllowed = true;
             ContextKey = "BookShopSystem.Data.BookShopContext";
-
         }
 
         protected override void Seed(BookShopSystem.Data.BookShopContext context)
         {
-            context.Categoryes.AddOrUpdate(
-                new Category() { CategoryId = 1, Name = "Fantasy" }
-                );
+            ////for Seed uncoment
 
-            context.Authors.AddOrUpdate(
-                new Author() { AuthorId = 1, FirstName = "Roger", LastName = "Porter" }
-                );
+            //using (var reader = new StreamReader("categories.txt"))
+            //{
+            //    var line = reader.ReadLine();
+            //    while (line != null)
+            //    {
+            //        var data = line.Split(new[] { ' ' }, 1);
+            //        var name = data[0];
 
-            context.Books.AddOrUpdate(
+            //        context.Categoryes.Add(
+            //    new Category()
+            //    {
+            //        Name = name,
+            //    });
+            //        line = reader.ReadLine();
+            //    }
+            //}
 
-                new Book() { BookId = 1, Edition = (Models.Type)1, ReleaseDate = DateTime.Parse("20/01/1998"), Copies = 27274, Price = 15.31 , AgeRestriction = (AgeRestriction)2, Title = "Absalom", AutorId = 1}
-                );
+            //using (var reader = new StreamReader("authors.txt"))
+            //{
+            //    var line = reader.ReadLine();
+            //    line = reader.ReadLine();
+            //    while (line != null)
+            //    {
+            //        var data = line.Split(new[] { ' ' }, 2);
+            //        var firstName = data[0];
+            //        var lastName = data[1];
+
+            //        context.Authors.Add(
+            //    new Author()
+            //    {
+            //        FirstName = firstName,
+            //        LastName = lastName
+            //    });
+            //        line = reader.ReadLine();
+            //    }
+            //}
+
+            //using (var reader = new StreamReader("books.txt"))
+            //{
+            //    var line = reader.ReadLine();
+            //    line = reader.ReadLine();
+            //    while (line != null)
+            //    {
+            //        var data = line.Split(new[] { ' ' }, 6);
+            //        var authorIndex = random.Next(0, 1000);
+            //        var edition = (Models.Type)int.Parse(data[0]);
+            //        var releaseDate = DateTime.ParseExact(data[1], "d/M/yyyy", CultureInfo.InvariantCulture);
+            //        var copies = int.Parse(data[2]);
+            //        var price = double.Parse(data[3]);
+            //        var ageRestriction = (AgeRestriction)int.Parse(data[4]);
+            //        var title = data[5];
+
+            //        context.Books.Add(
+
+            //    new Book()
+            //    {
+            //        //BookId = 1,
+            //        Edition = edition,
+            //        ReleaseDate = releaseDate,
+            //        Copies = copies,
+            //        Price = price,
+            //        AgeRestriction = ageRestriction,
+            //        Title = title,
+            //        AuthorId = 1
+            //    });
+            //        line = reader.ReadLine();
+            //    }
+            //}
         }
     }
 }
+
+

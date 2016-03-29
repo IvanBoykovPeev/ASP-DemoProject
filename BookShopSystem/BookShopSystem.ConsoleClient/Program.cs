@@ -19,6 +19,8 @@ namespace BookShopSystem.ConsoleClient
             //Initialize database
             var bookCount = context.Books.Count();
             Console.WriteLine(bookCount);
+            Console.Write("Press any key...");
+            Console.ReadKey();
         }
     }
 }
