@@ -19,74 +19,74 @@ namespace BookShopSystem.Data.Migrations
         {
             ////for Seed uncoment
 
-            //using (var reader = new StreamReader("categories.txt"))
-            //{
-            //    var line = reader.ReadLine();
-            //    while (line != null)
+            //    using (var reader = new StreamReader("categories.txt"))
             //    {
-            //        var data = line.Split(new[] { ' ' }, 1);
-            //        var name = data[0];
+            //        var line = reader.ReadLine();
+            //        while (line != null)
+            //        {
+            //            var data = line.Split(new[] { ' ' }, 1);
+            //            var name = data[0];
 
-            //        context.Categoryes.Add(
-            //    new Category()
-            //    {
-            //        Name = name,
-            //    });
-            //        line = reader.ReadLine();
+            //            context.Categoryes.Add(
+            //        new Category()
+            //        {
+            //            Name = name,
+            //        });
+            //            line = reader.ReadLine();
+            //        }
             //    }
-            //}
 
-            //using (var reader = new StreamReader("authors.txt"))
-            //{
-            //    var line = reader.ReadLine();
-            //    line = reader.ReadLine();
-            //    while (line != null)
+            //    using (var reader = new StreamReader("authors.txt"))
             //    {
-            //        var data = line.Split(new[] { ' ' }, 2);
-            //        var firstName = data[0];
-            //        var lastName = data[1];
-
-            //        context.Authors.Add(
-            //    new Author()
-            //    {
-            //        FirstName = firstName,
-            //        LastName = lastName
-            //    });
+            //        var line = reader.ReadLine();
             //        line = reader.ReadLine();
+            //        while (line != null)
+            //        {
+            //            var data = line.Split(new[] { ' ' }, 2);
+            //            var firstName = data[0];
+            //            var lastName = data[1];
+
+            //            context.Authors.Add(
+            //        new Author()
+            //        {
+            //            FirstName = firstName,
+            //            LastName = lastName
+            //        });
+            //            line = reader.ReadLine();
+            //        }
             //    }
-            //}
 
-            //using (var reader = new StreamReader("books.txt"))
-            //{
-            //    var line = reader.ReadLine();
-            //    line = reader.ReadLine();
-            //    while (line != null)
+            //    using (var reader = new StreamReader("books.txt"))
             //    {
-            //        var data = line.Split(new[] { ' ' }, 6);
-            //        var authorIndex = random.Next(0, 1000);
-            //        var edition = (Models.Type)int.Parse(data[0]);
-            //        var releaseDate = DateTime.ParseExact(data[1], "d/M/yyyy", CultureInfo.InvariantCulture);
-            //        var copies = int.Parse(data[2]);
-            //        var price = double.Parse(data[3]);
-            //        var ageRestriction = (AgeRestriction)int.Parse(data[4]);
-            //        var title = data[5];
-
-            //        context.Books.Add(
-
-            //    new Book()
-            //    {
-            //        //BookId = 1,
-            //        Edition = edition,
-            //        ReleaseDate = releaseDate,
-            //        Copies = copies,
-            //        Price = price,
-            //        AgeRestriction = ageRestriction,
-            //        Title = title,
-            //        AuthorId = 1
-            //    });
+            //        var line = reader.ReadLine();
             //        line = reader.ReadLine();
+            //        while (line != null)
+            //        {
+            //            var data = line.Split(new[] { ' ' }, 6);
+            //            var authorIndex = random.Next(0, 1000);
+            //            var edition = (Models.Type)int.Parse(data[0]);
+            //            var releaseDate = DateTime.Parse(data[1]);
+            //            var copies = int.Parse(data[2]);
+            //            var price = double.Parse(data[3]);
+            //            var ageRestriction = (AgeRestriction)int.Parse(data[4]);
+            //            var title = data[5];
+
+            //            context.Books.Add(
+
+            //        new Book()
+            //        {
+            //            //BookId = 1,
+            //            Edition = edition,
+            //            ReleaseDate = releaseDate,
+            //            Copies = copies,
+            //            Price = price,
+            //            AgeRestriction = ageRestriction,
+            //            Title = title,
+            //            AuthorId = 1
+            //        });
+            //            line = reader.ReadLine();
+            //        }
             //    }
-            //}
         }
     }
 }
