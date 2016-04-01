@@ -12,3 +12,6 @@ C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopSyste
 C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.csprojResolveAssemblyReference.cache
 C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.exe
 C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.pdb
+D:\ASP-DemoProject.git\trunk\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe.config
+D:\ASP-DemoProject.git\trunk\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.exe
+D:\ASP-DemoProject.git\trunk\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.pdb
