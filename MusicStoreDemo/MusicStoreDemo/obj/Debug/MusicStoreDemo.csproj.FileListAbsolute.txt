@@ -79,3 +79,7 @@ D:\ASP-DemoProject.git\trunk\MusicStoreDemo\MusicStoreDemo\bin\Microsoft.Owin.Se
 D:\ASP-DemoProject.git\trunk\MusicStoreDemo\MusicStoreDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\ASP-DemoProject.git\trunk\MusicStoreDemo\MusicStoreDemo\obj\Debug\MusicStoreDemo.dll
 D:\ASP-DemoProject.git\trunk\MusicStoreDemo\MusicStoreDemo\obj\Debug\MusicStoreDemo.pdb
+D:\ASP-DemoProject.git\trunk\MusicStoreDemo\MusicStoreDemo\obj\Debug\MusicStoreDemo.Migrations.InitialCreate.resources
+D:\ASP-DemoProject.git\trunk\MusicStoreDemo\MusicStoreDemo\obj\Debug\MusicStoreDemo.csproj.GenerateResource.Cache
+D:\ASP-DemoProject.git\trunk\MusicStoreDemo\MusicStoreDemo\obj\Debug\MusicStoreDemo.Migrations.MusicStoreDB.resources
+D:\ASP-DemoProject.git\trunk\MusicStoreDemo\MusicStoreDemo\obj\Debug\MusicStoreDemo.csprojResolveAssemblyReference.cache

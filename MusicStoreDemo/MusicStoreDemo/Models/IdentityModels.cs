@@ -21,7 +21,7 @@ namespace MusicStoreDemo.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("MusicStoreDB", throwIfV1Schema: false)
         {
         }
 
