@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookShop</name>
+    </assembly>
+    <members>
+        <member name="T:BookShop.Models.SampleData">
+            <summary>
+            Do not use in production
+            </summary>
+        </member>
+    </members>
+</doc>
