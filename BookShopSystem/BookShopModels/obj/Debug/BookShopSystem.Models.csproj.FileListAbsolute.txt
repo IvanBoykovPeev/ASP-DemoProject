@@ -1,9 +1,0 @@
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\bin\Debug\BookShopModels.dll.config
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\bin\Debug\BookShopModels.dll
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\bin\Debug\BookShopModels.pdb
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\bin\Debug\EntityFramework.dll
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\bin\Debug\EntityFramework.xml
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\obj\Debug\BookShopModels.dll
-C:\Users\Ivan\documents\visual studio 2015\Projects\BookShopSystem\BookShopModels\obj\Debug\BookShopModels.pdb
