@@ -20,4 +20,3 @@ D:\ASP-DemoProject.git\trunk\SportStore\SportsStore.Domain\bin\Debug\EntityFrame
 D:\ASP-DemoProject.git\trunk\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 D:\ASP-DemoProject.git\trunk\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
 D:\ASP-DemoProject.git\trunk\SportStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
-D:\ASP-DemoProject.git\trunk\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
