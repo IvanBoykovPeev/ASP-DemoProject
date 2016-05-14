@@ -18,7 +18,7 @@ namespace SportsStore.UnitTests
         [TestMethod]
         public void Can_Paginate()
         {
-            //Arange
+            //Arrange
             Mock<IProductRepository> mock = new Mock<IProductRepository>();
             mock.Setup(m => m.Products).Returns(new Product[]
             {
