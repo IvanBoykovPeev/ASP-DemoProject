@@ -40,6 +40,5 @@ D:\GitVisualStudio\SportStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
 D:\GitVisualStudio\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
 D:\GitVisualStudio\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\GitVisualStudio\SportStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
-D:\GitVisualStudio\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
 D:\GitVisualStudio\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 D:\GitVisualStudio\SportStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
